@@ -50,12 +50,6 @@ This package is designed for **energy engineers, researchers, and graduate stude
 
 ---
 
-## 📊 Example Output
-
-> Insert a sample **convergence plot** here to show how the algorithms perform.
-
----
-
 ## ⚠️ How to Purchase
 
 This package is **copyright-protected and available only after payment**.  
