@@ -1,6 +1,5 @@
-# Hybrid-PV-Wind-Battery-Diesel-System-Optimization
-Hybrid PV–Wind–Battery–Diesel system optimization using Grey Wolf and Particle Swarm algorithms in Maple.
 # ⚡ Hybrid PV–Wind–Battery–Diesel Optimization Packages
+Hybrid PV–Wind–Battery–Diesel system optimization using Grey Wolf and Particle Swarm algorithms in Maple
 
 **Author:** Dr. Davoud Moazami  
 **Email:** 📧 dmoazami@yahoo.com  
