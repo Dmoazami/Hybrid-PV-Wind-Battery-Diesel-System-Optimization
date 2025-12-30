@@ -1,58 +1,76 @@
-# ⚡ Hybrid PV–Wind–Battery–Diesel Optimization Packages
-Hybrid PV–Wind–Battery–Diesel system optimization using Grey Wolf and Particle Swarm algorithms in Maple
+# Hybrid PV–Wind–Battery–Diesel Optimization Packages
 
 **Author:** Dr. Davoud Moazami  
 **Email:** 📧 dmoazami@yahoo.com  
-**Date:** 2025-12-30
+**Date:** 2025-12-31  
 
 ---
 
 ## 🔹 Overview
 
-This repository contains **two Maple optimization packages** for designing hybrid renewable energy systems consisting of PV panels, wind turbines, battery storage, and diesel generators:
+This repository contains **two professional Maple codes** for optimizing hybrid energy systems consisting of PV panels, wind turbines, battery storage, and diesel generators:
 
-- 🐺 **Grey Wolf Optimizer (GWO) Package**  
-- 🌐 **Particle Swarm Optimization (PSO) Package**
+1. **Grey Wolf Optimizer (GWO)**  
+2. **Particle Swarm Optimization (PSO)**  
 
-**Key Features:**  
-- 💰 Minimize Levelized Cost of Energy (LCOE)  
-- ⚡ Maintain system reliability ≥ 95%  
-- 📄 Detailed line-by-line PDF explanations included  
-- 🛠 Fully customizable parameters and bounds  
+Each code includes:  
 
----
+- Optimal design calculation for hybrid energy systems  
+- **Convergence plots** of the optimization algorithms  
+- PDF file with **line-by-line explanation**  
 
-## 🔹 Requirements
-
-- 🖥 **Software:** Maple 2023 or higher  
-- 📦 **Libraries:** `RandomTools`, `plots`  
+This package is designed for **energy engineers, researchers, and graduate students**.
 
 ---
 
-## 🔹 📬 Contact
+## 💰 Key Features
 
-**For inquiries or to request the package, email directly:**  
-
-<div align="center">
-📧 <strong>dmoazami@yahoo.com</strong>
-</div>
-
-> ⚠️ Please contact only via email. No other contact methods are available.
+- Minimize **Levelized Cost of Energy (LCOE)**  
+- Maintain **system reliability ≥ 95%**  
+- Compare **GWO vs PSO** performance with convergence plots  
+- Fully customizable **parameters and bounds**  
+- Detailed PDF explanation for each algorithm  
 
 ---
 
-## 🔹 Package Contents
+## 🖥 Requirements
 
-Each package includes:  
+- **Software:** Maple 2023 or higher  
+- **Libraries:** RandomTools, plots  
 
-- 📁 Maple code (`.mw` file) for the respective algorithm (GWO or PSO)  
-- 📄 PDF file with **line-by-line explanation** and usage instructions  
-- ⚡ Example load and resource profiles  
-- 📊 Instructions to run simulations and interpret outputs  
+---
+
+## 📦 Package Contents
+
+- `GWO_Optimization.mw` – Grey Wolf Optimizer code  
+- `PSO_Optimization.mw` – Particle Swarm Optimization code  
+- `GWO_PSO_Explanation.pdf` – Line-by-line explanation and usage instructions  
+- `Example_Profiles.mw` – Example load and resource profiles  
+- Convergence plots and optimization results included  
+
+---
+
+## 📊 Example Output
+
+> Insert a sample **convergence plot** here to show how the algorithms perform.
+
+---
+
+## ⚠️ How to Purchase
+
+This package is **copyright-protected and available only after payment**.  
+
+To request the package:  
+
+1. Email: 📧 `dmoazami@yahoo.com`  
+2. Payment instructions (wallet address) will be provided  
+3. Package files will be sent after payment  
+
+> Please contact only via email.  
 
 ---
 
 ## ⚠️ Disclaimer
 
-These packages are for **academic and professional use only**.  
-Unauthorized copying, redistribution, or sharing is strictly prohibited.
+- This package is for **academic and professional use only**  
+- Unauthorized copying, redistribution, or sharing is strictly prohibited  
