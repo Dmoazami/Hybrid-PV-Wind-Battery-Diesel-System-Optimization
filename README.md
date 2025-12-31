@@ -35,7 +35,7 @@ This package is designed for **energy engineers, researchers, and graduate stude
 
 ## 🖥 Requirements
 
-- **Software:** Maple 2023 or higher  
+- **Software:** Maple 2018 or higher  
 - **Libraries:** RandomTools, plots  
 
 ---
